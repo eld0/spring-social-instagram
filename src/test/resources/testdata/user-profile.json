@@ -1,0 +1,18 @@
+{
+   "meta":{
+      "code":200
+   },
+   "data":{
+      "username":"tomharman",
+      "bio":"",
+      "website":"http://harmantom.com",
+      "profile_picture":"http://images.instagram.com/profiles/profile_6948_75sq_1295839075.jpg",
+      "full_name":"Tom Harman",
+      "counts":{
+         "media":108,
+         "followed_by":93,
+         "follows":70
+      },
+      "id":"6948"
+   }
+}
